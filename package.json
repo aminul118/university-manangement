@@ -9,6 +9,7 @@
     "lint": "eslint --ext .js,.ts .",
     "lint:fix": "eslint . --ext .ts --fix",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
+    "prettier:fix": "prettier --write .",
     "prepare": "husky install",
     "lint-prettier": "npm run lint && npm run format",
     "lint-staged": "lint-staged",
