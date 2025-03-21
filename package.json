@@ -11,6 +11,7 @@
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
     "prepare": "husky install",
     "lint-prettier": "npm run lint && npm run format",
+    "lint-staged": "lint-staged",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
