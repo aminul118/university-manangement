@@ -1,25 +1,40 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Projects\\university-management\\logs\\winston\\successes\\.61d574c579574f9c88f2da69cee9cb0fad5ac59b-audit.json",
+  "files": [
+    {
+      "date": 1742756890507,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-01-success.log",
+      "hash": "7c26dfa695bf91512a5f226856b90924d0a4d98036a3c8cd8571cd1eb6cb97c7"
     },
-    "auditLog": "C:\\Projects\\university-management\\logs\\winston\\successes\\.61d574c579574f9c88f2da69cee9cb0fad5ac59b-audit.json",
-    "files": [
-        {
-            "date": 1742756890507,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-01-success.log",
-            "hash": "7c26dfa695bf91512a5f226856b90924d0a4d98036a3c8cd8571cd1eb6cb97c7"
-        },
-        {
-            "date": 1742819960981,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-18-success.log",
-            "hash": "df9ac6872af04d97d2e41936e5c0a6b020127e1818166a555975db3283e2607e"
-        },
-        {
-            "date": 1742821626884,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-19-success.log",
-            "hash": "032d41bfe1d60fbf21be4428919e5a8e8608d615a5babcf2e9879bb445f9a48e"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1742819960981,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-18-success.log",
+      "hash": "df9ac6872af04d97d2e41936e5c0a6b020127e1818166a555975db3283e2607e"
+    },
+    {
+      "date": 1742821626884,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-19-success.log",
+      "hash": "032d41bfe1d60fbf21be4428919e5a8e8608d615a5babcf2e9879bb445f9a48e"
+    },
+    {
+      "date": 1742824893377,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-20-success.log",
+      "hash": "7187c96f0e8d0bfb203ae1864e2d172c09633b3e2f3472801b1d00bd6c410304"
+    },
+    {
+      "date": 1742831083038,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-21-success.log",
+      "hash": "91f10a986a1bf74d37c745e30fd47ef7ae0569bb0b44f9c894eddb4775ca713d"
+    },
+    {
+      "date": 1742835789551,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-23-success.log",
+      "hash": "b8a414b769477eebab140d454011eb0bf20b8cca86a4e402fe4f65537bcca651"
+    }
+  ],
+  "hashType": "sha256"
 }

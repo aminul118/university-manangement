@@ -1,0 +1,24 @@
+Mon Mar 24 2025  23 : 22 : 0 [right meow!] error: 🚀 globalErrorHandler -->  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Mon Mar 24 2025  23 : 22 : 14 [right meow!] error: 🚀 globalErrorHandler -->  [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

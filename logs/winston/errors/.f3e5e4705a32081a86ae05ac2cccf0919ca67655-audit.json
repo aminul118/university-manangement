@@ -1,25 +1,40 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Projects\\university-management\\logs\\winston\\errors\\.f3e5e4705a32081a86ae05ac2cccf0919ca67655-audit.json",
+  "files": [
+    {
+      "date": 1742756890510,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-01-error.log",
+      "hash": "4a95f2d5389da93a91978a453e98fedb423942b22a4b45a69270cace3dc9e002"
     },
-    "auditLog": "C:\\Projects\\university-management\\logs\\winston\\errors\\.f3e5e4705a32081a86ae05ac2cccf0919ca67655-audit.json",
-    "files": [
-        {
-            "date": 1742756890510,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-01-error.log",
-            "hash": "4a95f2d5389da93a91978a453e98fedb423942b22a4b45a69270cace3dc9e002"
-        },
-        {
-            "date": 1742819960990,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-18-error.log",
-            "hash": "060dbaac587b0aaa5dab67920de1cdef1fa0d3dd88a66df85101e913f1efdc1a"
-        },
-        {
-            "date": 1742821626886,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-19-error.log",
-            "hash": "2bc31386d7b3a2ca20dbe36d5e73cb2b02cae429ad32600306c593833fed016f"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1742819960990,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-18-error.log",
+      "hash": "060dbaac587b0aaa5dab67920de1cdef1fa0d3dd88a66df85101e913f1efdc1a"
+    },
+    {
+      "date": 1742821626886,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-19-error.log",
+      "hash": "2bc31386d7b3a2ca20dbe36d5e73cb2b02cae429ad32600306c593833fed016f"
+    },
+    {
+      "date": 1742824893380,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-20-error.log",
+      "hash": "01ad25289e87ee3309dbab8433bf32ef9ee41ad03d1e99d7524ad71c0d88277f"
+    },
+    {
+      "date": 1742831083043,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-21-error.log",
+      "hash": "8c653edecdd2b1a897f80f521f85294edb894db1cb1c59e21a6ba3848d5e4bf6"
+    },
+    {
+      "date": 1742835789554,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-23-error.log",
+      "hash": "319bb3daeb75002d664465381ff7649f51157459c76fd6dc1951bb9ef06f4e24"
+    }
+  ],
+  "hashType": "sha256"
 }

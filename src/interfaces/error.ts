@@ -1,6 +1,6 @@
 type IGenericErrorMessage = {
-  path: string | number
-  message: string
-}
+  path: string | number;
+  message: string;
+};
 
-export { IGenericErrorMessage }
+export { IGenericErrorMessage };
