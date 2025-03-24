@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\university-management\\logs\\winston\\errors\\.f3e5e4705a32081a86ae05ac2cccf0919ca67655-audit.json",
+    "files": [
+        {
+            "date": 1742756890510,
+            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-01-error.log",
+            "hash": "4a95f2d5389da93a91978a453e98fedb423942b22a4b45a69270cace3dc9e002"
+        },
+        {
+            "date": 1742819960990,
+            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-18-error.log",
+            "hash": "060dbaac587b0aaa5dab67920de1cdef1fa0d3dd88a66df85101e913f1efdc1a"
+        },
+        {
+            "date": 1742821626886,
+            "name": "C:\\Projects\\university-management\\logs\\winston\\errors\\tabedge--2025-24-03-19-error.log",
+            "hash": "2bc31386d7b3a2ca20dbe36d5e73cb2b02cae429ad32600306c593833fed016f"
+        }
+    ],
+    "hashType": "sha256"
+}

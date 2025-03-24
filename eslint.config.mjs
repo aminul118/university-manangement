@@ -5,11 +5,17 @@ import tseslint from 'typescript-eslint'
 export default [
   { files: ['**/*.{js,mjs,cjs,ts}'] },
   { files: ['**/*.js'], languageOptions: { sourceType: 'commonjs' } },
-  { languageOptions: { globals: globals.browser } },
+  {
+    languageOptions: {
+      globals: globals.browser,
+      env: { node: true },
+    },
+  },
   {
     rules: {
       eqeqeq: 'off',
       'no-unused-vars': 'error',
+      'no-console': 'warn',
       'prefer-const': ['error', { ignoreReadBeforeAssign: true }],
     },
   },
