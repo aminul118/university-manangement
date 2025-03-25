@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "C:\\Projects\\university-management\\logs\\winston\\successes\\.61d574c579574f9c88f2da69cee9cb0fad5ac59b-audit.json",
-    "files": [
-        {
-            "date": 1742837483506,
-            "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-23-success.log",
-            "hash": "469083794c0174f8bb87b577ffe201f54507952e39f256b2a1bbcdbd2e2efedd"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Projects\\university-management\\logs\\winston\\successes\\.61d574c579574f9c88f2da69cee9cb0fad5ac59b-audit.json",
+  "files": [
+    {
+      "date": 1742837483506,
+      "name": "C:\\Projects\\university-management\\logs\\winston\\successes\\tabedge-2025-24-03-23-success.log",
+      "hash": "469083794c0174f8bb87b577ffe201f54507952e39f256b2a1bbcdbd2e2efedd"
+    }
+  ],
+  "hashType": "sha256"
 }
